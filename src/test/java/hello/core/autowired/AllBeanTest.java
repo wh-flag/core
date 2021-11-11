@@ -50,7 +50,4 @@ public class AllBeanTest {
             return discountPolicy.discount(member , price);
         }
     }
-
-
-
 }
